@@ -8,7 +8,7 @@ First part is script "server.php" I can start from anywhere. I have placed it on
 
 Second part took me few more hours. It is a smiple android app that will start listener service around every minute. Service will ask server.php for request and if any will send Magic Packet to wake up my NAS. 
 
-It works :) I have published my code so any one can use it. Some parts are harcoded (like server address). Please change it as you see fit.
+It works :) I have published my code so anyone can use it. Some parts are harcoded (like server address). Please change it as you see fit.
 
 Cheers
 Piotr Boryszek
